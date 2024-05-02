@@ -17,3 +17,4 @@ Here are some ideas to get you started:
 - 🔭 Learning new things
 - 🌱 UBC Electrical Engineering
 - ⚡ Fun fact: I am trying to hit a 225 bench PR
+
