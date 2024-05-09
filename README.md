@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 🔭 Learning new things
+- 🔭 Interested in FPGA, Asic and embedded system
 - 🌱 UBC Electrical Engineering
 - ⚡ Fun fact: I am trying to hit a 225 bench PR
 
